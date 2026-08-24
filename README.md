@@ -1,40 +1,47 @@
-# BratGeneratorOne
-Official GitHub profile for Brat Generator One - a BRAT-inspired online design tool for creating text graphics, memes, wallpapers, and social media visuals.
 # Brat Generator One
 
-Official GitHub profile of **Brat Generator One**.
+Creating BRAT-inspired design tools for text graphics, memes, wallpapers, and creative visuals.
 
-Brat Generator One is an online creative tool for making BRAT-inspired text graphics, memes, wallpapers, and social media designs.
+🌐 Website:
+https://bratgeneratorone.com
 
 ## About
 
-The project focuses on:
+Brat Generator One is an online creative design platform inspired by the BRAT visual style.
 
-- Brat aesthetic designs
-- Neon green typography
-- Lo-fi digital graphics
-- Meme creation
-- Social media visuals
+The project helps users create:
 
-## Website
-
-🌐 https://bratgeneratorone.com
+- BRAT-style text graphics
+- aesthetic memes
+- social media visuals
+- wallpapers
+- typography designs
 
 ## Tools
 
-- Brat Generator
-- Brat Meme Generator
-- Brat aesthetic design resources
+✨ Brat Generator  
+Create BRAT-inspired text and graphic designs.
+
+✨ Brat Meme Generator  
+Create short meme-style visuals.
 
 ## Features
 
-- Custom text styling
-- Multiple canvas ratios
-- Font controls
-- Blur effects
+- Custom text creation
+- Typography controls
 - Color customization
-- Image export options
+- Blur effects
+- Multiple canvas ratios
+- Image export
+
+## Resources
+
+Brat Aesthetic Guide:
+https://bratgeneratorone.com/brat-aesthetic/
+
+Brat Meme Generator:
+https://bratgeneratorone.com/brat-meme/
 
 ## Topics
 
-#brat #graphicdesign #generatortool #typography #memegenerator
+brat aesthetic • graphic design • typography • meme generator • creative tools
