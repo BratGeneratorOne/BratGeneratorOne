@@ -2,7 +2,6 @@
 ## Preview
 
 ![Brat Generator Preview](images/brat-generator-online-tool-preview.png)
-# Brat Generator One
 
 Creating BRAT-inspired design tools for text graphics, memes, wallpapers, and creative visuals.
 
