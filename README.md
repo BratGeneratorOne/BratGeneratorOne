@@ -36,8 +36,8 @@ Create short meme-style visuals inspired by the BRAT aesthetic.
 https://bratgeneratorone.com/brat-meme/
 
 
-## Features
 ## Projects
+## Features
 
 ### Brat Generator Tools
 A BRAT-inspired creative toolkit for generating typography graphics, memes, wallpapers, and social media visuals.
