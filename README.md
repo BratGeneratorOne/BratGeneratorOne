@@ -21,11 +21,12 @@ The project helps creators make:
 
 ## Tools
 
-### Brat Generator
+### Brat Generator Tools
 
-Create BRAT-inspired text graphics with customizable typography, colors, blur effects, and export options.
+A creative toolkit for generating BRAT-inspired typography graphics, memes, wallpapers, and social media visuals.
 
-https://bratgeneratorone.com
+🔗 GitLab Repository:
+https://gitlab.com/brat-generator-one-group/brat-generator-tools
 
 
 ### Brat Meme Generator
