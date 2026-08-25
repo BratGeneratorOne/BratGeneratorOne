@@ -37,6 +37,22 @@ https://bratgeneratorone.com/brat-meme/
 
 
 ## Features
+## Projects
+
+### Brat Generator Tools
+A BRAT-inspired creative toolkit for generating typography graphics, memes, wallpapers, and social media visuals.
+
+GitLab:
+https://gitlab.com/brat-generator-one-group/brat-generator-tools
+
+Website:
+https://bratgeneratorone.com
+
+### Brat Aesthetic Guide
+A complete guide explaining BRAT design style, colors, fonts, typography, and internet culture.
+
+Article:
+https://bratgeneratorone.com/brat-aesthetic/
 
 - Custom text creation
 - Typography controls
