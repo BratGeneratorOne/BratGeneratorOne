@@ -1,7 +1,7 @@
 
-## Preview
-
-![Brat Generator Preview](images/brat-generator-online-tool-preview.png)
+<p align="center">
+  <img src="images/brat-generator-online-tool-preview.png" alt="Brat Generator Online Tool Preview" width="800">
+</p>
 
 Creating BRAT-inspired design tools for text graphics, memes, wallpapers, and creative visuals.
 
