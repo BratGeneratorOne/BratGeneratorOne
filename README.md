@@ -1,18 +1,16 @@
-
-<p align="center">
-  <img src="images/brat-generator-online-tool-preview.png" alt="Brat Generator Online Tool Preview" width="800">
-</p>
+# Brat Generator One
 
 Creating BRAT-inspired design tools for text graphics, memes, wallpapers, and creative visuals.
 
 🌐 Website:
 https://bratgeneratorone.com
 
+
 ## About
 
 Brat Generator One is an online creative design platform inspired by the BRAT visual style.
 
-The project helps users create:
+The project helps creators make:
 
 - BRAT-style text graphics
 - aesthetic memes
@@ -20,31 +18,53 @@ The project helps users create:
 - wallpapers
 - typography designs
 
+
 ## Tools
 
-✨ Brat Generator  
-Create BRAT-inspired text and graphic designs.
+### Brat Generator
 
-✨ Brat Meme Generator  
-Create short meme-style visuals.
+Create BRAT-inspired text graphics with customizable typography, colors, blur effects, and export options.
+
+https://bratgeneratorone.com
+
+
+### Brat Meme Generator
+
+Create short meme-style visuals inspired by the BRAT aesthetic.
+
+https://bratgeneratorone.com/brat-meme/
+
 
 ## Features
 
 - Custom text creation
 - Typography controls
 - Color customization
-- Blur effects
+- Blur and low-resolution effects
 - Multiple canvas ratios
-- Image export
+- Image export options
+- Social media-ready designs
+
+
+## Preview
+
+<p align="center">
+  <img src="images/brat-generator-online-tool-preview.png" alt="Brat Generator Online Tool Preview" width="800">
+</p>
+
 
 ## Resources
 
-Brat Aesthetic Guide:
+Learn more about the BRAT aesthetic:
+
 https://bratgeneratorone.com/brat-aesthetic/
 
-Brat Meme Generator:
-https://bratgeneratorone.com/brat-meme/
+
+Explore more creative tools:
+
+https://bratgeneratorone.com/
+
 
 ## Topics
 
-brat aesthetic • graphic design • typography • meme generator • creative tools
+BRAT aesthetic, graphic design, typography, meme generator, creative tools, design generator
